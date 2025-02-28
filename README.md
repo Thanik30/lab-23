@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: Thanik Sirithon
+# STUDENT ID: 670610704
